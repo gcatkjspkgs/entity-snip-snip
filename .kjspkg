@@ -1,0 +1,9 @@
+{
+    "author": "TheonlyTazz",
+    "description": "A script that allows you to add custom shear interactions to mobs. Docs: https://github.com/gcatkjspkgs/entity-snip-snip/blob/main/README.md",
+    
+    "versions": [9],
+    "modloaders": ["forge", "fabric"],
+    "dependencies": [],
+    "incompatibilities": []
+}
